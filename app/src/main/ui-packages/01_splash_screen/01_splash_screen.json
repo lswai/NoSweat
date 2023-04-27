@@ -1,0 +1,993 @@
+{
+  "name": "01_splash_screen",
+  "version": 32,
+  "source-key": {
+    "type": "figma",
+    "file": "knU2d6OG2wEPcrboiKsOUr",
+    "node": "270:10119",
+    "version": "3404803833",
+    "component-id": "41460c5196b5cccf16ab686772016617c18703b2"
+  },
+  "default": "01 - Splash Screen",
+  "design": {
+    "atoms": [
+      {
+        "type": "group",
+        "id": "top_level",
+        "root": "true"
+      },
+      {
+        "type": "group",
+        "id": "Status bar dark mode"
+      },
+      {
+        "type": "vector",
+        "id": "Ellipse 167"
+      },
+      {
+        "type": "group",
+        "id": "hQgNHyUGjPxLJoi5Tj5jb"
+      },
+      {
+        "type": "group",
+        "id": "Group 10507"
+      },
+      {
+        "type": "group",
+        "id": "time"
+      },
+      {
+        "type": "group",
+        "id": "right status details"
+      },
+      {
+        "type": "text",
+        "id": "time1"
+      },
+      {
+        "type": "group",
+        "id": "wifi"
+      },
+      {
+        "type": "group",
+        "id": "network"
+      },
+      {
+        "type": "group",
+        "id": "battery"
+      },
+      {
+        "type": "vector",
+        "id": "Vector"
+      },
+      {
+        "type": "vector",
+        "id": "Vector1"
+      },
+      {
+        "type": "vector",
+        "id": "Vector2"
+      },
+      {
+        "type": "vector",
+        "id": "Vector3"
+      },
+      {
+        "type": "group",
+        "id": "network 1"
+      },
+      {
+        "type": "group",
+        "id": "network 2"
+      },
+      {
+        "type": "vector",
+        "id": "Line 8 (Stroke)"
+      },
+      {
+        "type": "vector",
+        "id": "Line 7 (Stroke)"
+      },
+      {
+        "type": "vector",
+        "id": "Line 6 (Stroke)"
+      },
+      {
+        "type": "vector",
+        "id": "Line 5 (Stroke)"
+      },
+      {
+        "type": "vector",
+        "id": "Line 4 (Stroke)"
+      },
+      {
+        "type": "vector",
+        "id": "Line 3 (Stroke)"
+      },
+      {
+        "type": "vector",
+        "id": "Line 2 (Stroke)"
+      },
+      {
+        "type": "vector",
+        "id": "Line 1 (Stroke)"
+      },
+      {
+        "type": "group",
+        "id": "battery cover"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 10"
+      },
+      {
+        "type": "vector",
+        "id": "time2"
+      },
+      {
+        "type": "vector",
+        "id": "bg"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 11"
+      },
+      {
+        "type": "vector",
+        "id": "Vector4"
+      },
+      {
+        "type": "group",
+        "id": "Untitled-12 2"
+      },
+      {
+        "type": "text",
+        "id": "Don't have an account"
+      },
+      {
+        "type": "text",
+        "id": "Forget password"
+      },
+      {
+        "type": "group",
+        "id": "ZDZs4V43VLvgshI-p3BOv"
+      },
+      {
+        "type": "group",
+        "id": "2_yezhBKz4h5opc26PfHH"
+      },
+      {
+        "type": "group",
+        "id": "pl5Ns-d0hj7_I_A6BDbxY"
+      },
+      {
+        "type": "vector",
+        "id": "Vector5"
+      },
+      {
+        "type": "vector",
+        "id": "Vector6"
+      },
+      {
+        "type": "vector",
+        "id": "Vector7"
+      }
+    ],
+    "modes": {
+      "01 - Splash Screen": {
+        "rules": [
+          {
+            "id": "top_level",
+            "border-radius": "15.0",
+            "is-structured": "false",
+            "children": [
+              "Status bar dark mode",
+              "Ellipse 167",
+              "hQgNHyUGjPxLJoi5Tj5jb",
+              "Group 10507"
+            ],
+            "background-color": "$01 - Splash Screen background color"
+          },
+          {
+            "id": "Status bar dark mode",
+            "padding": {
+              "left": "16.0",
+              "top": "14.0",
+              "right": "16.0",
+              "bottom": "14.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "362.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "arrangement": "row",
+            "children": [
+              "time",
+              "right status details"
+            ],
+            "item-spacing": "191.0",
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "clip-content": "false"
+          },
+          {
+            "id": "Ellipse 167",
+            "margin": {
+              "left": "16.0",
+              "top": "189.0",
+              "right": "18.0",
+              "bottom": "283.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "ellipse_167.svg"
+          },
+          {
+            "id": "hQgNHyUGjPxLJoi5Tj5jb",
+            "margin": {
+              "left": "259.4381103515625",
+              "top": "466.0",
+              "bottom": "163.19317626953125"
+            },
+            "is-structured": "false",
+            "children": [
+              "Vector4"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Group 10507",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "49.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "216.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "265.03717041015625"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "250.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Untitled-12 2",
+              "Don't have an account",
+              "Forget password"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "time",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "shrink"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "arrangement": "row",
+            "main-axis-align": "start",
+            "cross-axis-align": "start",
+            "children": [
+              "time1"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "right status details",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "shrink"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "arrangement": "row",
+            "main-axis-align": "start",
+            "cross-axis-align": "end",
+            "children": [
+              "wifi",
+              "network",
+              "battery"
+            ],
+            "item-spacing": "10.0",
+            "clip-content": "false"
+          },
+          {
+            "id": "time1",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "text-content": "4:16 PM",
+            "overflow": "visible",
+            "text-size": "12.0",
+            "letter-spacing": "-0.12",
+            "line-height": "1.184999942779541",
+            "typeface": "Rubik"
+          },
+          {
+            "id": "wifi",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "16.9996337890625"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "12.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Vector",
+              "Vector1",
+              "Vector2",
+              "Vector3"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "network",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "shrink"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "arrangement": "row",
+            "main-axis-align": "start",
+            "cross-axis-align": "start",
+            "children": [
+              "network 1",
+              "network 2"
+            ],
+            "item-spacing": "5.0",
+            "clip-content": "false"
+          },
+          {
+            "id": "battery",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "shrink"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "main-axis-align": "start",
+            "cross-axis-align": "start",
+            "children": [
+              "battery cover"
+            ],
+            "item-spacing": "10.0",
+            "clip-content": "false"
+          },
+          {
+            "id": "Vector",
+            "margin": {
+              "left": "8.4847412109375",
+              "top": "12.0",
+              "right": "8.50341796875"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            }
+          },
+          {
+            "id": "Vector1",
+            "margin": {
+              "left": "5.6568603515625",
+              "top": "8.00091552734375",
+              "right": "5.6868896484375",
+              "bottom": "2.827972412109375"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "vector.svg"
+          },
+          {
+            "id": "Vector2",
+            "margin": {
+              "left": "2.8280029296875",
+              "top": "3.99993896484375",
+              "right": "2.85791015625",
+              "bottom": "5.656829833984375"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "vector1.svg"
+          },
+          {
+            "id": "Vector3",
+            "margin": {
+              "bottom": "8.484832763671875"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "vector2.svg"
+          },
+          {
+            "id": "network 1",
+            "presence": "false",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "shrink"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "arrangement": "row",
+            "main-axis-align": "start",
+            "cross-axis-align": "end",
+            "children": [
+              "Line 8 (Stroke)",
+              "Line 7 (Stroke)",
+              "Line 6 (Stroke)",
+              "Line 5 (Stroke)"
+            ],
+            "item-spacing": "2.0",
+            "clip-content": "false"
+          },
+          {
+            "id": "network 2",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "shrink"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "arrangement": "row",
+            "main-axis-align": "start",
+            "cross-axis-align": "end",
+            "children": [
+              "Line 4 (Stroke)",
+              "Line 3 (Stroke)",
+              "Line 2 (Stroke)",
+              "Line 1 (Stroke)"
+            ],
+            "item-spacing": "2.0",
+            "clip-content": "false"
+          },
+          {
+            "id": "Line 8 (Stroke)",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "3.545454502105713"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "1.7727272510528564"
+              }
+            }
+          },
+          {
+            "id": "Line 7 (Stroke)",
+            "presence": "false",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "5.909090995788574"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "1.7727272510528564"
+              }
+            }
+          },
+          {
+            "id": "Line 6 (Stroke)",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "9.454545021057129"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "1.7727272510528564"
+              }
+            }
+          },
+          {
+            "id": "Line 5 (Stroke)",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "13.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "1.7727272510528564"
+              }
+            }
+          },
+          {
+            "id": "Line 4 (Stroke)",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "3.545454502105713"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "1.7727272510528564"
+              }
+            },
+            "vector-content": "line_4_stroke_.svg"
+          },
+          {
+            "id": "Line 3 (Stroke)",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "5.909090995788574"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "1.7727272510528564"
+              }
+            },
+            "vector-content": "line_3_stroke_.svg"
+          },
+          {
+            "id": "Line 2 (Stroke)",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "9.454545021057129"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "1.7727272510528564"
+              }
+            },
+            "vector-content": "line_2_stroke_.svg"
+          },
+          {
+            "id": "Line 1 (Stroke)",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "13.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "1.7727272510528564"
+              }
+            },
+            "vector-content": "line_1_stroke_.svg"
+          },
+          {
+            "id": "battery cover",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "26.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "13.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Rectangle 10",
+              "time2",
+              "bg",
+              "Rectangle 11"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Rectangle 10",
+            "border-radius": "2.3636362552642822",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "2.3636474609375"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "0.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "23.6363525390625"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "13.0"
+              }
+            },
+            "vector-content": "rectangle_10.svg"
+          },
+          {
+            "id": "time2",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "10.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "4.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "9.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "6.0"
+              }
+            },
+            "vector-content": "time.svg"
+          },
+          {
+            "id": "bg",
+            "border-radius": "1.5",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "5.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "2.5"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "18.5"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "8.0"
+              }
+            },
+            "vector-content": "bg.svg"
+          },
+          {
+            "id": "Rectangle 11",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "0.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "4.1363525390625"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "1.772705078125"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "5.909088134765625"
+              }
+            },
+            "vector-content": "rectangle_11.svg"
+          },
+          {
+            "id": "Vector4",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            }
+          },
+          {
+            "id": "Untitled-12 2",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "21.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "67.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "224.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "140.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "ZDZs4V43VLvgshI-p3BOv",
+              "2_yezhBKz4h5opc26PfHH",
+              "pl5Ns-d0hj7_I_A6BDbxY"
+            ]
+          },
+          {
+            "id": "Don't have an account",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "265.03717041015625"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "font-weight": "800.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "20.159999999999997",
+              "saturation": "0.9881422924901186",
+              "value": "0.9921568627450981"
+            },
+            "annotated-text-content": {
+              "text": "NO SWEAT !",
+              "annotated-text-span-list": [
+                {
+                  "span-start": "0",
+                  "span-length": "2",
+                  "annotated-text-style": {
+                    "font-weight": "700.0",
+                    "italic": "true",
+                    "text-size": "32.0",
+                    "typeface": "Poppins",
+                    "color": {
+                      "alpha": "1.0",
+                      "hue": "20.159999999999997",
+                      "saturation": "0.9881422924901186",
+                      "value": "0.9921568627450981"
+                    }
+                  }
+                },
+                {
+                  "span-start": "2",
+                  "span-length": "8",
+                  "annotated-text-style": {
+                    "font-weight": "700.0",
+                    "italic": "true",
+                    "text-size": "32.0",
+                    "typeface": "Poppins"
+                  }
+                }
+              ]
+            },
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-size": "32.0",
+            "line-height": "1.5",
+            "typeface": "Poppins"
+          },
+          {
+            "id": "Forget password",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "10.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "226.0"
+              }
+            },
+            "font-weight": "700.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "text-content": "FITNESS AND HEALTHY RECIPES",
+            "italic": "true",
+            "overflow": "visible",
+            "text-align": "left",
+            "text-size": "16.0",
+            "line-height": "1.5",
+            "typeface": "Poppins"
+          },
+          {
+            "id": "ZDZs4V43VLvgshI-p3BOv",
+            "margin": {
+              "left": "112.376220703125",
+              "top": "0.0000152587890625",
+              "bottom": "0.312530517578125"
+            },
+            "drop-shadow": {
+              "color": {
+                "alpha": "0.24705882352941178",
+                "hue": "0.0",
+                "saturation": "0.0",
+                "value": "0.0"
+              },
+              "blur": "10.0",
+              "offset-x": "1.0",
+              "offset-y": "6.0",
+              "spread": "0.0",
+              "blend-mode": "normal"
+            },
+            "is-structured": "false",
+            "children": [
+              "Vector5"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "2_yezhBKz4h5opc26PfHH",
+            "margin": {
+              "left": "79.9503173828125",
+              "right": "47.36767578125"
+            },
+            "is-structured": "false",
+            "children": [
+              "Vector6"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "pl5Ns-d0hj7_I_A6BDbxY",
+            "margin": {
+              "right": "111.3870849609375",
+              "bottom": "0.0064544677734375"
+            },
+            "is-structured": "false",
+            "children": [
+              "Vector7"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Vector5",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "vector3.svg"
+          },
+          {
+            "id": "Vector6",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "vector4.svg"
+          },
+          {
+            "id": "Vector7",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "vector5.svg"
+          }
+        ]
+      }
+    }
+  },
+  "parameters": {
+    "01 - Splash Screen background color": {
+      "data-type": "color",
+      "required": false,
+      "description": ""
+    }
+  },
+  "previews": [
+    {
+      "design": "01 - Splash Screen",
+      "size": {
+        "width": 362.0,
+        "height": 800.0
+      },
+      "parameters": {
+        "01 - Splash Screen background color": {
+          "alpha": "1.0",
+          "hue": "20.159999999999997",
+          "saturation": "0.9881422924901186",
+          "value": "0.9921568627450981"
+        }
+      }
+    }
+  ],
+  "adin-component-search-paths": [],
+  "image-search-paths": [],
+  "vector-search-paths": []
+}
